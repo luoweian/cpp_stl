@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CastTest.cpp" />
     <ClCompile Include="module.cpp" />
     <ClCompile Include="MyArray.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CastTest.h" />
     <ClInclude Include="MyArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

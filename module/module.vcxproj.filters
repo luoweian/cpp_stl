@@ -21,9 +21,15 @@
     <ClCompile Include="MyArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="CastTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CastTest.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

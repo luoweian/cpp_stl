@@ -89,7 +89,7 @@ void test_my_array_02() {
 	arr.PushBack(p2);
 }
 
-int main() {
-	test_my_array();
-	test_my_array_02();
-}
+//int main() {
+//	test_my_array();
+//	test_my_array_02();
+//}
